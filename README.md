@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=jettdcandy&count_private=true&theme=github_dark&show_icons=true&hide=prs,issues,contribs)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jettdcandy&theme=dark&background=0D1116&ring=4B8FDA&fire=4B8FDA&currStreakLabel=4B8FDA)](https://git.io/streak-stats)
 
 <!--
